@@ -1,0 +1,21 @@
+<style>
+  @media screen and (max-width: 641px) {
+.wm-slider-container .slider-dot{ display:none !important;
+}
+}
+
+@media only screen and (max-width: 640px) {
+#page .page-section:nth-child(3)
+  .section-background img
+{
+opacity: 0
+}
+  #page .page-section:nth-child(3)
+.section-background {
+background-color: #000000;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+}
+</style>
