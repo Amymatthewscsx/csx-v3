@@ -1,0 +1,53 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+window.onscroll = function() {myFunction()};
+
+function myFunction() {
+  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  var scrolled = (winScroll / height) * 100;
+  document.getElementById("progressBar").style.width = scrolled + "%";
+}
+
+</script>
+
+<div class="progress-container">
+  <div class= "progress-bar" id="progressBar">
+    
+  </div>
+</div>
+
+<script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
+
+<script src="https://unpkg.com/@lottiefiles/lottie-interactivity@latest/dist/lottie-interactivity.min.js"></script>
+
+<script src="https://kit.fontawesome.com/e938320dce.js" crossorigin="anonymous"></script>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<style>
+  .t-search .system-page {
+    background: black;
+}
+</style>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+ <script>
+ $(window).load(function() {
+    show();
+ });
+ 
+ function show() {
+     $('.loader').delay(1000).hide();
+     $('body').fadeIn();
+ };
+ 
+ setTimeout(show, 3000);
+ </script>
+ 
+ <style>
+ .loader { position: fixed; left: 0; top: 0; width: 100%; height: 100%; z-index: 9999; background: url('https://static1.squarespace.com/static/61f939a9aa54fd445b18cb42/t/61fc20d143dfe1006b50258e/1643913427418/BrowserPreview_tmp+%284%29.gif') 50% 50% no-repeat rgba(255, 255, 255, 0.95);}
+ </style>
