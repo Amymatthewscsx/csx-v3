@@ -1,0 +1,502 @@
+<script src="https://unpkg.com/ionicons@5.1.2/dist/ionicons.js"></script>
+
+<style>
+
+section[data-section-id="61fd047e46f1bd0501dcbaf6"] .image-block-outer-wrapper {
+box-shadow: unset;
+}
+
+@media only screen and (max-width: 640px){section[data-section-id="61fd047e46f1bd0501dcbaf6"] .image-block-outer-wrapper {
+background-color: white;
+}
+
+</style>
+
+
+
+<style>
+  hidden
+  @media only screen and (min-width:660px){ .design-layout-poster .image-card-wrapper {
+  visibility: hidden;
+  opacity: 0;
+  border-radius: 25px;
+  transition-duration: 1s;
+  }
+  .design-layout-poster:hover .image-card-wrapper {
+  visibility: visible;
+  opacity: 1;
+  border-radius: 25px;
+  background-color: hsla(214, 100%, 39%, 0.95);
+    }
+</style>
+
+<style>
+  hidden
+@media only screen and (max-width:640px){ 
+@media(hover: hover) and (pointer: fine) {
+    .design-layout-poster:hover .image-card-wrapper {
+  visibility: visible;
+  opacity: 1;
+  border-radius: 25px;
+  background-color: hsla(214, 100%, 39%, 0.95);
+    }
+  
+  .design-layout-poster .image-card-wrapper {
+  visibility: hidden;
+  opacity: 0;
+  border-radius: 25px;
+  transition-delay: 1s;
+  transition-duration: 1s;
+  }
+  .design-layout-poster:hover .image-card-wrapper {
+  visibility: visible;
+  opacity: 1;
+  border-radius: 25px;
+  background-color: hsla(214, 100%, 39%, 0.95);
+    }
+  
+</style>
+
+
+<style>
+  .image-block-outer-wrapper.design-layout-poster {
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px 0px rgba(0,0,0,.30);
+}
+</style>
+
+<style>
+  
+  
+  
+h1 *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 60%, hsla(213, 100%, 62%, 0.50) 40%, hsla(213, 100%, 62%, 0.60) 40%, hsla(213, 100%, 62%, 0.70) 40%)
+}
+
+h1:hover *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 5%, hsla(213, 100%, 62%, 0.9) 80%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%)
+}
+</style>
+
+
+<style>
+  
+  
+  
+h2 *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 60%, hsla(213, 100%, 62%, 0.50) 40%, hsla(213, 100%, 62%, 0.60) 40%, hsla(213, 100%, 62%, 0.70) 40%)
+}
+
+h2:hover *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 5%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%)
+}
+</style>
+
+
+<style>
+  
+  hidden
+  
+h3 *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 60%, hsla(213, 100%, 62%, 0.50) 40%, hsla(213, 100%, 62%, 0.60)40%, hsla(213, 100%, 62%, 0.70) 40%)
+}
+
+h3:hover *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 5%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%)
+}
+</style>
+
+
+<style>
+  
+h4 *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 0%, hsla(213, 100%, 62%, 1) 100%, hsla(213, 100%, 62%, 1) 100%, hsla(213, 100%, 62%, 1) 100%)
+}
+
+h4:hover *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) -15%, hsla(213, 100%, 62%, 1) 115%, hsla(213, 100%, 62%, 1) 115%, hsla(213, 100%, 62%, 1) 115%)
+}
+</style>
+
+
+
+<style>
+
+.sqs-block-accordion{
+    color: hsla(213, 100%, 100%, 0.01);
+
+
+  
+</style>
+
+<style>
+
+.sqs-block-accordion.accordion-items-title {
+    color: hsla(213, 100%, 100%, 0.01);
+}
+
+.sqs-block-accordion.accordion-items-title:hover {
+    color: hsla(214, 100%, 100%, 1);
+}
+  
+</style>
+
+<style>
+
+
+/* accordion content background */
+.sqs-block-accordion .accordion-item__dropdown--open {
+    background-color: hsla(214, 100%, 100%, 0.7);
+    color: black; padding: 30px; background: blur(50px); ; box-shadow: 0px 20px 20px 0px hsla(213, 100%, 100%, 0.1), 0px 20px 20px 0px hsla(213, 100%, 100%, 0.1);
+}
+
+</style>
+
+
+
+
+<style>
+li.accordion-item:nth-child(1) .accordion-item__title:before {
+    background-image: url(https://cdn.pixabay.com/photo/2019/10/23/06/30/hamburg-4570577__340.jpg);
+}
+li.accordion-item:nth-child(2) .accordion-item__title:before {
+    background-image: url(https://cdn.pixabay.com/photo/2021/02/17/08/02/woman-6023442__340.jpg);
+}
+  
+  }
+
+
+</style>
+
+<style>
+
+
+@import "bourbon";
+
+@import 'https://fonts.googleapis.com/css?family=Montserrat:400,700|Raleway:300,400';
+
+
+/* colors */
+$blue: #428BFF;
+$red: #FF4A53;
+$dark: #333;
+
+$accent: $blue;
+$accent-inactive: desaturate($accent, 85%);
+$secondary: $accent-inactive;
+
+
+/* tab setting */
+$tab-count: 4;
+$indicator-width: 50px;
+$indicator-height: 4px;
+
+/* breakpoints */
+$breakpoints: (
+  medium: #{$tab-count*250px},
+  small: #{$tab-count*150px}
+);
+
+
+/* selectors relative to radio inputs */
+$label-selector: "~ ul > li";
+$slider-selector: "~ .slider";
+$content-selector: "~ .content > section";
+
+@mixin tabs(
+  $label-selector: $label-selector,
+  $slider-selector: $slider-selector,
+  $content-selector: $content-selector) {
+    
+  @for $i from 1 through $tab-count {
+    &:nth-of-type(#{$i}):checked {
+      #{$label-selector}:nth-child(#{$i}) {
+        @content;
+      }
+
+      #{$slider-selector} {
+        transform: translateX(#{100% * ($i - 1)});
+      }
+
+      #{$content-selector}:nth-child(#{$i}) {
+        display: block;
+      }
+    }
+  }
+}
+
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background: #efefef;
+  color: $dark;
+  font-family: "Raleway";
+  height: 100%;
+  
+  h1 {
+    text-align: center;
+    color: $accent;
+    font-weight: 300;
+    padding: 40px 0 20px 0;
+    margin: 0;
+  }
+}
+
+.tabs {
+  left: 50%;
+  transform: translateX(-50%);
+  position: relative;
+  background: white;
+  padding: 50px;
+  padding-bottom: 80px;
+  width: 70%;
+  height: 250px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  border-radius: 5px;
+  min-width: #{$tab-count * 60px};
+  input[name="tab-control"] {
+    display: none;
+  }
+  
+  .content section h2,
+  ul li label {
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 18px;
+    color: $accent;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    
+    li {
+      box-sizing: border-box;
+      flex: 1;
+      width: #{100%/$tab-count};
+      padding: 0 10px;
+      text-align: center;
+      
+      label {
+        transition: all 0.3s ease-in-out;
+        color: $secondary;
+        padding: 5px auto;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: block;
+        cursor: pointer;
+        transition: all 0.2s ease-in-out;
+        white-space: nowrap;
+        -webkit-touch-callout: none;
+        @include user-select(none);
+        
+        br {
+          display: none;
+        }
+        
+        svg {
+          fill: $secondary;
+          height: 1.2em;
+          vertical-align: bottom;
+          margin-right: 0.2em;
+          transition: all 0.2s ease-in-out;
+        }
+        
+        &:hover,
+        &:focus,
+        &:active {
+          outline: 0;
+          color: lighten($secondary, 15%);
+          svg {
+            fill: lighten($secondary, 15%);
+          }
+        }
+      }
+    }
+  }
+  
+  .slider {
+    position: relative;
+    width: #{100%/$tab-count};
+    transition: all 0.33s cubic-bezier(0.38, 0.8, 0.32, 1.07);
+    .indicator {
+      position: relative;
+      width: $indicator-width;
+      max-width: 100%;
+      margin: 0 auto;
+      height: $indicator-height;
+      background: $accent;
+      border-radius: 1px;     
+    }
+
+  }
+  
+  .content {
+    margin-top: 30px;
+    
+    section {
+      display: none;
+      animation: {
+        name: content;
+        direction: normal;
+        duration: 0.3s;
+        timing-function: ease-in-out;
+        iteration-count: 1;
+      }
+      line-height: 1.4;
+      
+      h2 {
+        color: $accent;
+        display: none;
+        &::after {
+          content: "";
+          position: relative;
+          display: block;
+          width: 30px;
+          height: 3px;
+          background: $accent;
+          margin-top: 5px;
+          left: 1px;
+        }
+      }
+    }
+  }
+  
+  input[name="tab-control"] {
+    @include tabs {
+      > label {
+        cursor: default;
+        color: $accent;
+        
+        svg {
+          fill: $accent;
+        }
+        
+        @media (max-width: map-get($breakpoints, small)) {
+          background: rgba(0, 0, 0, 0.08);
+        }
+      }
+    }
+  }
+
+  @keyframes content {
+    from {
+      opacity: 0;
+      transform: translateY(5%);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0%);
+    }
+  }
+  
+  @media (max-width: map-get($breakpoints, medium)) {
+    ul li label {
+      white-space: initial;
+      
+      br {
+        display: initial;
+      }
+      
+      svg {
+        height: 1.5em;
+      }
+    }
+  }
+  
+  @media (max-width: map-get($breakpoints, small)) {
+    ul li label {
+      padding: 5px;
+      border-radius: 5px;
+      
+      span {
+        display: none;
+      }
+    }
+    
+    .slider {
+      display: none;
+    }
+    
+    .content {
+      margin-top: 20px; 
+      section h2 {
+        display: block;
+      }
+    }
+  }
+}
+</style>
+
+
+//Image shadow//
+
+<style>
+.image-block-outer-wrapper {
+    box-shadow: 10px 20px 30px 10px rgba(0,0,0,0.5);
+}
+
+
+
+</style>
+
+<style>
+
+.operational:hover {transform: scale(1.1); transition: .4s; filter: drop-shadow(3px 4px 10px rgba(0, 0, 0, 0.4));}
+
+.operational{transform: scale(1); transition: .4s; filter: drop-shadow(3px 4px 10px rgba(0, 0, 0, 0.4));}
+
+
+.thisistheblueone:hover {transform: scale(1.1); transition: .4s; filter: drop-shadow(3px 4px 10px rgba(0, 0, 0, 0.4));}
+
+.thisistheblueone{transform: scale(1); transition: .4s; filter: drop-shadow(3px 4px 10px rgba(0, 0, 0, 0.4));}
+
+.thisistheblackone:hover {transform: scale(1.1); transition: .4s; filter: drop-shadow(3px 4px 10px rgba(0, 0, 0, 0.4));}
+
+.thisistheblackone{transform: scale(1); transition: .4s; filter: drop-shadow(3px 4px 10px rgba(0, 0, 0, 0.4));}
+  
+ .operationalsection{margin-top: -50px !important; margin-bottom: -260px !important;}
+
+@media only screen and (max-width: 640px){
+  .operationalsection{margin-top: -50px !important; margin-bottom: -25px !important;}
+
+
+
+
+}
+
+
+</style>
+
+
+<style>
+  
+
+  
+h2 *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 60%, hsla(213, 100%, 62%, 0.50) 40%, hsla(213, 100%, 62%, 0.60) 40%, hsla(213, 100%, 62%, 0.70) 40%)
+}
+
+h2:hover *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 5%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%)
+  
+
+h4 *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 60%, hsla(213, 100%, 62%, 0.50) 40%, hsla(213, 100%, 62%, 0.60) 40%, hsla(213, 100%, 62%, 0.70) 40%)
+}
+
+h4:hover *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 5%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%)
+}
+
+  
+</style>
