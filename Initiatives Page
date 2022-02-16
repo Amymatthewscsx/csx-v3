@@ -1,0 +1,12 @@
+<style>
+  
+  
+  
+h1 *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 60%, hsla(213, 100%, 62%, 0.50) 40%, hsla(213, 100%, 62%, 0.60) 40%, hsla(213, 100%, 62%, 0.70) 40%)
+}
+
+h1:hover *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 5%, hsla(213, 100%, 62%, 0.9) 80%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%)
+}
+</style>
