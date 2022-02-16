@@ -1,0 +1,148 @@
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src="https://assets.codepen.io/3198845/WMSliderFREEv3.0.js"></script>
+
+<script>
+if (document.location.pathname.indexOf("/search") == 0) {
+    document.querySelector('body').classList.add('t-search')
+}
+  </script>
+
+<script>
+  window.addEventListener("load", function(){ 
+    var loadingscreen = document.getElementById("loadingscreen");
+    document.body.removeChild(loadingscreen); 
+  });
+</script>
+
+<script>
+LottieInteractivity.create({
+    mode:"scroll",
+    player: "#firstLottie",
+    container: "#block-yui_3_17_2_1_1638371619703_4265",
+    actions: [
+        {
+            visibility:[0,1],
+            type: "seek",
+            frames: [0, 841]
+        }
+    ]
+});
+</script>
+
+<script>
+LottieInteractivity.create({
+    mode:"scroll",
+    player: "#secondLottie",
+    container: "#block-yui_3_17_2_1_1638376225153_6933",
+    actions: [
+        {
+            visibility:[0,1],
+            type: "seek",
+            frames: [0, 240]
+        }
+    ]
+});
+</script>
+
+<script>
+LottieInteractivity.create({
+    mode:"scroll",
+    player: "#thirdLottie",
+    container: "#block-8176c8846a8f1801901a",
+    actions: [
+        {
+            visibility:[0,1],
+            type: "seek",
+            frames: [0, 150]
+        }
+    ]
+});
+</script>
+
+<script>
+LottieInteractivity.create({
+    mode:"scroll",
+    player: "#fourthLottie",
+    container: "#block-285d1bb9212661329df7",
+    actions: [
+        {
+            visibility:[0,1],
+            type: "seek",
+            frames: [0, 180]
+        }
+    ]
+});
+</script>
+
+<script>
+LottieInteractivity.create({
+    mode:"scroll",
+    player: "#fifthLottie",
+    container: "#block-f8bd2034abc4b27b4a77",
+    actions: [
+        {
+            visibility:[0,1],
+            type: "seek",
+            frames: [5, 479]
+        }
+    ]
+});
+</script>
+
+<script>
+LottieInteractivity.create({
+    mode:"scroll",
+    player: "#sixthLottie",
+    container: "#block-f4f74a75f9ca72bb63fb",
+    actions: [
+        {
+            visibility:[0,1],
+            type: "seek",
+            frames: [0, 480]
+        }
+    ]
+});
+</script>
+
+<script>
+LottieInteractivity.create({
+    mode:"scroll",
+    player: "#eighthLottie",
+    container: "#block-yui_3_17_2_1_1643118270049_9715",
+    actions: [
+        {
+            visibility:[0,1],
+            type: "seek",
+            frames: [0, 200]
+        }
+    ]
+});
+</script>
+
+<script>
+LottieInteractivity.create({
+    mode:"scroll",
+    player: "#twelthLottie",
+    container: "#block-c84339da6e8a6e3b2cf0",
+    actions: [
+        {
+            visibility:[0,1],
+            type: "seek",
+            frames: [0, 120]
+        }
+    ]
+});
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script>
+<script>
+$(document).ready(function() { 
+	$('.header-nav-folder-title[href="/our-services-menu"]').click(function() {
+		window.location = "/our-services";
+	});
+});
+</script>
+
+<div class="loader">
+  
+</div>
