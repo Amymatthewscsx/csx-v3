@@ -1,0 +1,80 @@
+<style>
+  
+  
+  
+h1 *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 60%, hsla(213, 100%, 62%, 0.50) 40%, hsla(213, 100%, 62%, 0.60) 40%, hsla(213, 100%, 62%, 0.70) 40%)
+}
+
+h1:hover *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 5%, hsla(213, 100%, 62%, 0.9) 80%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%)
+}
+</style>
+
+
+<style>
+  
+  
+  
+h2 *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 60%, hsla(213, 100%, 62%, 0.50) 40%, hsla(213, 100%, 62%, 0.60) 40%, hsla(213, 100%, 62%, 0.70) 40%)
+}
+
+h2:hover *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 5%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%)
+}
+</style>
+
+
+<style>
+  
+  
+  
+h3 *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 60%, hsla(213, 100%, 62%, 0.50) 40%, hsla(213, 100%, 62%, 0.60)40%, hsla(213, 100%, 62%, 0.70) 40%)
+}
+
+h3:hover *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 5%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%)
+}
+</style>
+
+
+<style>
+  
+  
+  
+h4 *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 60%, hsla(213, 100%, 62%, 0.50) 40%, hsla(213, 100%, 62%, 0.60) 40%, hsla(213, 100%, 62%, 0.70) 40%)
+}
+
+h4:hover *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 5%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%)
+}
+</style>
+
+
+<style>
+@media screen and (max-width: 641px){
+
+  #block-7282cb04601774306869 h1 {
+    font-size: 28px;}
+
+#block-7282cb04601774306869{
+  background-color: hsla(0, 100%, 0%, 0.5);}
+
+
+#block-a8450ed98609f543c01c{
+  background-color: hsla(0, 100%, 0%, 0.5);}
+
+#block-960b98428a1d8cf91f76{
+  background-color: hsla(0, 100%, 0%, 0.5);}
+  }
+</style>
+
+
+<style>
+
+  section[data-section-id="61f93a06aa54fd445b18e2a7"]{background-color: black;}
+
+</style>
