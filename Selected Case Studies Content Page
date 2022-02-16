@@ -1,0 +1,83 @@
+<style>
+
+.blog-item-wrapper {
+background-image:url(https://static1.squarespace.com/static/61d5a86dffc6d8367b82acee/t/61e021ebacabf74e8d03d683/1642078701357/Blue+case+study.png);
+background-size: cover;
+  top: -20px;
+  left: 0px;
+  height: 225px;
+  width: 110%;
+}
+
+.blog-item-inner-wrapper{
+
+background: linear-gradient(to top, hsla(0, 0%, 64%, 0), hsla(0, 0%, 64%, 0)); 
+padding: 1rem;
+  position: absolute;
+top: 50px;
+}
+
+</style>
+
+<style>
+
+h1.entry-title.entry-title--large.p-name {
+  font-size: 36px;
+  color: white !important;
+ 
+  
+
+</style>
+
+<style>
+hidden
+.sqs-block.image-block{
+position: absolute;
+top: -375px;
+  right: -100px;
+  height: 300px;
+  width: 700px;
+
+</style>
+
+
+<style>
+.blog-item-title {
+  width: 40vw;
+    background-color: hsla(0, 0%, 92%, 0);
+    padding-top: -50px;
+  margin-top: -30px;
+  margin-bottom: 10px;
+}
+</style>
+
+<!-- Summary Block Autoplay -->
+<script>
+window.onload = function() {
+  var nextArrow = document.querySelector(".summary-carousel-pager-next");
+  
+  function clickNext() {
+    nextArrow.click();
+  }
+ 
+  setInterval(clickNext, 5000);
+};
+</script>
+
+<style>
+.sqs-block-summary-v2 .summary-block-setting-design-carousel .summary-carousel-pager {   float: none;   width: 100%;   position: absolute;   bottom: 50%;   left: 50%;   -webkit-transform: translate(-50%,-50%);       -ms-transform: translate(-50%,-50%);           transform: translate(-50%,-50%);   -webkit-box-pack: justify;       -ms-flex-pack: justify;           justify-content: space-between;   z-index: 9; }
+</style>
+
+<style>
+.summary-block-setting-design-carousel .summary-carousel-pager img {
+    width: 75% !important;
+    height: 75% !important;
+}
+
+</style>
+
+<style>
+
+  section[data-section-id="61f93a30aa54fd445b18eaa8"]{color: black !important; visibility: visible !important;;}
+
+</style>
