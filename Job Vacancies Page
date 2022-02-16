@@ -1,0 +1,16 @@
+<style>
+
+  .list-item {height: 100%}
+
+.list-item:hover {height: 100%; position: relative; top: -25px}
+
+.list-item[data-is-card-enabled="true"] {border:1px ridge #0057c6; box-shadow: 1px 1px 5px 5px #e9e9e9; border-radius: 25px} 
+
+.list-item[data-is-card-enabled="true"]:hover {border:2px ridge #0057c6; box-shadow: 1px 1px 5px 5px #e9e9e9; border-radius: 25px} 
+
+</style>
+<style>
+.list-item:hover .list-image {filter: grayscale(1); opacity:.3}
+
+.list-item-media-inner {background: linear-gradient(45deg, #0057c6, #3d93ff)!important}
+</style>
