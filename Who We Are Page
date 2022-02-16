@@ -1,0 +1,83 @@
+<style>
+  
+  
+  
+h1 *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 60%, hsla(213, 100%, 62%, 0.50) 40%, hsla(213, 100%, 62%, 0.60) 40%, hsla(213, 100%, 62%, 0.70) 40%)
+}
+
+h1:hover *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 5%, hsla(213, 100%, 62%, 0.9) 80%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%)
+}
+</style>
+
+
+<style>
+  
+  
+  
+h2 *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 60%, hsla(213, 100%, 62%, 0.50) 40%, hsla(213, 100%, 62%, 0.60) 40%, hsla(213, 100%, 62%, 0.70) 40%)
+}
+
+h2:hover *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 5%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%)
+}
+</style>
+
+
+<style>
+  
+  
+  
+h3 *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 60%, hsla(213, 100%, 62%, 0.50) 40%, hsla(213, 100%, 62%, 0.60)40%, hsla(213, 100%, 62%, 0.70) 40%)
+}
+
+h3:hover *{
+background: linear-gradient(to bottom, hsla(214, 100%, 100%, 0.01) 5%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%, hsla(213, 100%, 62%, 0.9) 95%)
+}
+</style>
+
+
+<style>
+
+.sqs-block-accordion .accordion-items-container {background: hsla(213, 100%, 100%, 0.95); border-radius: 500px; border: 2px outset; padding: 30px; background filter: blur(0.5px); border-color: hsla(213, 100%, 62%, 0.9); box-shadow: 0px 20px 20px 0px hsla(213, 100%, 100%, 0.1), 0px 20px 20px 0px hsla(213, 100%, 100%, 0.1);
+  
+  
+  }
+  
+</style>
+
+<style>
+
+.sqs-block-accordion{
+    color: #000000;
+
+
+}
+  
+</style>
+
+<style>
+
+.sqs-block-accordion.accordion-items-title{
+    color: #000000;
+
+
+}
+  
+</style>
+
+<style>
+@media screen and (max-width: 641px){
+#block-f6d5b2549051a723d10e{
+  background-color: hsla(0, 100%, 0%, 0.73);}
+
+#block-7cb675ba59ed62ada3a2{
+  background-color: hsla(0, 100%, 0%, 0.73);}
+
+#block-31fead3c7fc4125d397d{
+  background-color: hsla(0, 100%, 0%, 0.73);}
+  }
+</style>
